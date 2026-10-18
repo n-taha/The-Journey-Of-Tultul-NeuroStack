@@ -1,0 +1,7 @@
+1. Complexity Discussion Of Without tracking tail.
+2. Tail tracking
+3. input linked list
+4. delete head
+5. delete tail
+6. delete from any position
+7. selection sort Algorithm
